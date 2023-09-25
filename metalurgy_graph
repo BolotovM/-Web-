@@ -1,0 +1,42 @@
+// Металлургическая промышленность
+digraph {
+	"https://ru.wikipedia.org/wiki/Чёрные_металлы"
+	"https://chermetinfo.elpub.ru/jour/index"
+	"https://ru.wikipedia.org/wiki/Чёрная_металлургия_России"
+	"https://www.yaklass.ru/p/geografiya/9-klass/khoziaistvo-rossiiskoi-federatcii-6899732/chernaia-metallurgiia-6925823/re-636e7420-2642-458a-a2a3-c0881114e0e3"
+	"https://foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii"
+	"https://dzen.ru/a/Y_2t_DA_H1wtKhrj"
+	"https://www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/"
+	"https://journal.tinkoff.ru/news/rus-metal-industry-2022/"
+	"https://studfile.net/preview/7138676/page:2/"
+	"https://lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva"
+	https:"//ru.wikipedia.org/wiki/Чёрные_металлы" -> https:"//chermetinfo.elpub.ru/jour/index" [label="чёрная металлургия"]
+	https:"//ru.wikipedia.org/wiki/Чёрные_металлы" -> https:"//foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii" [label="чёрная металлургия"]
+	https:"//ru.wikipedia.org/wiki/Чёрные_металлы" -> https:"//dzen.ru/a/Y_2t_DA_H1wtKhrj" [label="чёрная металлургия"]
+	https:"//ru.wikipedia.org/wiki/Чёрные_металлы" -> https:"//www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/" [label="чёрная металлургия"]
+	https:"//ru.wikipedia.org/wiki/Чёрные_металлы" -> https:"//journal.tinkoff.ru/news/rus-metal-industry-2022/" [label="чёрная металлургия"]
+	https:"//ru.wikipedia.org/wiki/Чёрные_металлы" -> https:"//studfile.net/preview/7138676/page":2/ [label="чёрная металлургия"]
+	https:"//ru.wikipedia.org/wiki/Чёрные_металлы" -> https:"//lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva" [label="чёрная металлургия"]
+	https:"//chermetinfo.elpub.ru/jour/index" -> https:"//foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii" [label="чёрная металлургия"]
+	https:"//chermetinfo.elpub.ru/jour/index" -> https:"//dzen.ru/a/Y_2t_DA_H1wtKhrj" [label="чёрная металлургия"]
+	https:"//chermetinfo.elpub.ru/jour/index" -> https:"//www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/" [label="чёрная металлургия"]
+	https:"//chermetinfo.elpub.ru/jour/index" -> https:"//journal.tinkoff.ru/news/rus-metal-industry-2022/" [label="чёрная металлургия"]
+	https:"//chermetinfo.elpub.ru/jour/index" -> https:"//studfile.net/preview/7138676/page":2/ [label="чёрная металлургия"]
+	https:"//chermetinfo.elpub.ru/jour/index" -> https:"//lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva" [label="чёрная металлургия"]
+	https:"//ru.wikipedia.org/wiki/Чёрная_металлургия_России" -> https:"//www.yaklass.ru/p/geografiya/9-klass/khoziaistvo-rossiiskoi-federatcii-6899732/chernaia-metallurgiia-6925823/re-636e7420-2642-458a-a2a3-c0881114e0e3" [label="чёрная металлургия в России"]
+	https:"//foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii" -> https:"//dzen.ru/a/Y_2t_DA_H1wtKhrj" [label="чёрная металлургия"]
+	https:"//foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii" -> https:"//www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/" [label="металлургическая промышленность, чёрная металлургия"]
+	https:"//foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii" -> https:"//journal.tinkoff.ru/news/rus-metal-industry-2022/" [label="чёрная металлургия"]
+	https:"//foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii" -> https:"//studfile.net/preview/7138676/page":2/ [label="чёрная металлургия"]
+	https:"//foxford.ru/wiki/geografiya/chernaia-metallurgia-rossii" -> https:"//lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva" [label="чёрная металлургия"]
+	https:"//dzen.ru/a/Y_2t_DA_H1wtKhrj" -> https:"//www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/" [label="чёрная металлургия"]
+	https:"//dzen.ru/a/Y_2t_DA_H1wtKhrj" -> https:"//journal.tinkoff.ru/news/rus-metal-industry-2022/" [label="чёрная металлургия"]
+	https:"//dzen.ru/a/Y_2t_DA_H1wtKhrj" -> https:"//studfile.net/preview/7138676/page":2/ [label="чёрная металлургия"]
+	https:"//dzen.ru/a/Y_2t_DA_H1wtKhrj" -> https:"//lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva" [label="чёрная металлургия"]
+	https:"//www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/" -> https:"//journal.tinkoff.ru/news/rus-metal-industry-2022/" [label="чёрная металлургия"]
+	https:"//www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/" -> https:"//studfile.net/preview/7138676/page":2/ [label="чёрная металлургия"]
+	https:"//www.urm-company.ru/about-us/blog/154-chernaya-metallurgiya-rossii/" -> https:"//lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva" [label="чёрная металлургия"]
+	https:"//journal.tinkoff.ru/news/rus-metal-industry-2022/" -> https:"//studfile.net/preview/7138676/page":2/ [label="чёрная металлургия"]
+	https:"//journal.tinkoff.ru/news/rus-metal-industry-2022/" -> https:"//lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva" [label="чёрная металлургия"]
+	https:"//studfile.net/preview/7138676/page":2/ -> https:"//lindeal.com/trends/promyshlennost-stran-sng-chto-proizvodyat-rossiya-kazakhstan-belarus-ukraina-i-drugie-gosudarstva" [label="чёрная металлургия"]
+}
